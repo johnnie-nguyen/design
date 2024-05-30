@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-pic.png"
   name             : "John Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "Computational Designer"
@@ -55,7 +55,7 @@ author:
 #  goodreads        : # Username
 #  google_plus      : # Username
 #  keybase          : # Username
-   instagram        : "john.design"
+#  instagram        : "john.design"
 #  lastfm           : # Username
 #  linkedin         : # Username
 #  mastodon         : # URL
