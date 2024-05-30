@@ -1,12 +1,12 @@
 ---
 title: "Numerical investigation of backward facing step flow over various step angles"
-collection: Procedia Engineering
+publisher: Procedia Engineering
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-01-01
 venue: 'Elsevier'
-#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Choi, H. and Nguyen, J. (2016). &quot; Numerical investigation of backward facing step flow over various step angles.&quot; <i>Proceedia Engineering1</i>. 151.'
 ---
 
