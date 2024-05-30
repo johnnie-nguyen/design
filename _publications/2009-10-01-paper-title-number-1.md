@@ -1,5 +1,6 @@
 ---
 title: "Numerical investigation of backward facing step flow over various step angles"
+collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 publisher: Procedia Engineering
 excerpt: 'In this study, utilizing the open source CFD package OpenFOAM, a series of numerical simulations were conducted employing both Reynolds Averaged Navier-Stokes (RANS) and Large Eddy Simulation (LES) methodologies.'
