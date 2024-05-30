@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Postgraduate in Architecture, University of Cambridge, 2026
+* Master of Architecture, University of Toronto, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Research Lead
+  * University of Toronto
+  * Duties includes: Oversee research experiments and supervise team
+  * Lab: Daniels Robotics Laboratory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024: Research Associate
+  * University of Toronto
+  * Duties includes: Oversee research experiments and supervise team
+  * Lab: Acoustics Research Group
 
 * Summer 2015: Research Assistant
   * Github University
