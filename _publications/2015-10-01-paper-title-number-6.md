@@ -5,7 +5,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ' The research presented in this paper investigates acoustic metamaterials for architectural acoustics and demonstrates how architects can leverage parametric design, digital fabrication, and computer performance simulation to develop new metamaterial designs tuned for customized acoustic performance.'
 date: 2022-09-18
 venue: 'Springer International Publishing'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'P. Cop, J. Nguyen, and B. Peters, “Modelling and Simulation of Acoustic Metamaterials for Architectural Application,” in Towards Radical Regeneration, Cham: Springer International Publishing, pp. 223–236. doi: 10.1007/978-3-031-13249-0_19.'
 ---
 
