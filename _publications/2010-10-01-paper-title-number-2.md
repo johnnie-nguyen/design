@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Numerical Simulation of Turbulent Flow and Pollutant Dispersion in Urban Street Canyons"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'In this study, a numerical model has been developed based on an open source Computational Fluid Dynamics (CFD) package OpenFOAM, aiming to investigate the flow pattern and pollutant dispersion in urban street canyons with different geometry configurations. The pollutant transport driven by airflow is modeled by the scalar transport equation coupling with the momentum equations for airflow, deduced from the Reynolds Averaged Navier-Stokes (RANS) equations.'
 date: 2010-10-01
-venue: 'Journal 1'
+venue: 'Atmosphere'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'V. Nguyen, T. Nguyen, J. Nguyen, "Numerical Simulation of Turbulent Flow and Pollutant Dispersion in Urban Street Canyons," Atmosphere, vol 10(11), pp. 683-713, 2019, doi: doi.org/10.3390/atmos10110683'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this study, a numerical model has been developed based on an open source Computational Fluid Dynamics (CFD) package OpenFOAM, aiming to investigate the flow pattern and pollutant dispersion in urban street canyons with different geometry configurations. The pollutant transport driven by airflow is modeled by the scalar transport equation coupling with the momentum equations for airflow, deduced from the Reynolds Averaged Navier-Stokes (RANS) equations. The turbulent flow calculation has been calibrated by various two-equation turbulence closure models to select a practical and efficient turbulence model to reasonably capture the flow pattern. Particularly, an appropriate value of the turbulent Schmidt number has been selected for the pollutant dispersion in urban street canyons, based upon previous studies and careful calibrations against experimental measurements. Eventually, the numerical model has been validated against different well-known laboratory experiments in regard to various aspect ratios (a relationship between the building height and the width of the street canyon), and different building roof shapes (flat, shed, gable and round). The comparisons between the numerical simulations and experimental measurements show a good agreement on the flow pattern and pollutant distribution. This indicates the ability of the new numerical model, which can be applied to investigate the wind flow and pollutant dispersion in urban street canyons.
