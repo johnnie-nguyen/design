@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper provides a state-of-the-art of computational fluid dynamics (CFD) in the building industry.'
 date: 2020-11-25
-venue: 'University of Pennsylvania, USA'
+venue: 'CUMINCAD'
 citation: 'John Nguyen and Brady Peters, "Computational Fluid Dynamics in Building Design Practice," in Proceedings of ACADIA 2020 Conference Association for Computer Aided Design in Architecture, pp.574-583, ISBN: 978-0-578-95213-0'
 ---
 
