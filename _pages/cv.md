@@ -13,7 +13,7 @@ Education
 ======
 * Postgraduate in Architecture, University of Cambridge, 2026
 * Graduate in Architecture, University of Toronto, 2020
-
+*
 Work experience (academic)
 ======
 * 2022 - 2024: Research Lead
@@ -51,23 +51,23 @@ Work experience (academic)
   * Duties included: Develop mesh models and run CFD simulations
   * Lab: Environmental Fluid Dynamics Laboratory
             
-Skills
+Technical Skills
 ======
 * Computational Design
   * Design thinking approaches to novel problems
   * Parametric modeling of complex geometries
   * Coding/Scripting custom features for GH workflow
     
-* Robotic Fabrication & Digital Fabrication
-  * Industrial KUKA researching with WASP 3D printing, Milling, and Gripper
-  * Lasercutting planar multimaterials for complex geometrical issues
-  * 3D Printing with Starch,PLA/ABS,Nylon,PVA on Markforges, Ultimaker, Stratasys
-    
-* Acoustic Research
+* Acoustic Research & Development
   * Simulation using Finite Element Method (Comsol), Raytracing (Odeon), FDTD (Pachyderm), and Boundary Element Modeling (AFMG Reflex)
   * Absorption using Acoustic Metamaterials and Helmholtz Resonators
   * Diffusion using custom complex Schroder Diffuser Geometries
     
+* Robotic Fabrication & Digital Fabrication
+  * Industrial KUKA researching with WASP 3D printing, Milling, and Gripper
+  * Lasercutting planar multimaterials for complex geometrical issues
+  * 3D Printing with Starch,PLA/ABS,Nylon,PVA on Markforges, Ultimaker, Stratasys
+
 * Computational Fluid Dynamcis
   * OpenFOAM studies using open & closed source platforms.
   * Workflow integration into Grasshopper
