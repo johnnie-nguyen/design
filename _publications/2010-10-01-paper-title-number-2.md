@@ -5,8 +5,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'In this study, a numerical model has been developed based on an open source Computational Fluid Dynamics (CFD) package OpenFOAM, aiming to investigate the flow pattern and pollutant dispersion in urban street canyons with different geometry configurations. The pollutant transport driven by airflow is modeled by the scalar transport equation coupling with the momentum equations for airflow, deduced from the Reynolds Averaged Navier-Stokes (RANS) equations.'
 date: 2010-10-01
 venue: 'Atmosphere'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'V. Nguyen, T. Nguyen, J. Nguyen, "Numerical Simulation of Turbulent Flow and Pollutant Dispersion in Urban Street Canyons," Atmosphere, vol 10(11), pp. 683-713, 2019, doi: doi.org/10.3390/atmos10110683'
 ---
 
