@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Resonant Hexagon Diffuser: Designing tunable acoustic surfaces by combining sound scattering and Helmholtz resonators"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper investigates the potential of Helmholtz resonators to be used in combination with sound scattering surfaces to achieve optimal perfor- mance in cross laminated timber (CLT) panels through the use of a hexagonal pattern as the underlying design strategy.'
+date: 2022-11-28
+venue: 'University of Pennsylvania, USA'
+citation: 'J. Nguyen, P. Cop, N. Hoban, B. Peters, T. Kesik, "Resonant Hexagon Diffuser: Designing tunable acoustic surfaces by combining sound scattering and Helmholtz resonators," in Proceedings of ACADIA 2022 - Association for Computer Aided Design in Architecture, pp.546-557. ISBN 979-8-9860805-8-1'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+	The surge in mass timber buildings being constructed introduces unique acoustical challenges as mass timber is more permissible for sound to travel across floors, ceilings, and walls, especially for lower frequencies. In order to address these acoustical challenges, the absorption qualities of Helmholtz resonators and surface diffusion of scattering surfaces are leveraged by combining the two systems in an integrated structure using the tectonics of mass timber construction. This paper investigates the potential of Helmholtz resonators to be used in combination with sound scattering surfaces to achieve optimal performance in cross laminated timber (CLT) panels through the use of a hexagonal pattern as the underlying design strategy.
