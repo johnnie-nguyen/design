@@ -13,7 +13,7 @@ Education
 ======
 * Postgraduate in Architecture, University of Cambridge, 2026
 * Graduate in Architecture, University of Toronto, 2020
-======
+  
 Work experience (academic)
 ======
 * 2022 - 2024: Research Lead
