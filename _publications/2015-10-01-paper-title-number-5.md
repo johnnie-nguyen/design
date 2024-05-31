@@ -5,7 +5,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper suggests that progress in digital design tools, computational building performance simulation, and fabrication techniques facilitates the exploration, testing, and production of novel Helmholtz resonator geometries.'
 date: 2021-10-29
 venue: 'Society for Computer Simulation International'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 citation: 'P. Cop, J. Nguyen, B. Peters, "Modelling and Simulation of Helmholtz Resonators for Broadband Sound Absorption," in Proceedings of SimAUD 2021, www.simaud.org/papers'
 ---
 
