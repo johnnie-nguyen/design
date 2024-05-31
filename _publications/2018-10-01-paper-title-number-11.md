@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "“A Social Reintegration Project"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper is about addressing the shelter facilities in the city of Toronto, Ontario in Canada. Social integration and rehabilitation are addressed in the proposal through a facility that houses shelter seekers and provides all necessary facilities including a medical center, room and board resources, and classrooms, while normalizing social interactions between the sheltered and shelter seekers.'
+date: 2017-11-03
+venue: 'Dichotomy'
+citation: 'John Nguyen, S. Baik, Z. Luo, S. Lamb, Q. Luchen, A. Nguyen, "A Social Reintegration Project," Dichotomy, vol. 23, pp.52-60, 2017, ISSN: 0276-5748'  
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Shelter-seekers1 encounter significant social and financial difficulties that often go unnoticed by the general population. In particular, prejudices based on socio-economic status stigmatize people living in shelters. The need for robust housing strategies has become more pressing within the last few years as people had lost their homes during the recession. According to the Canadian Homeless Research Network, an estimated 200,000 people are homeless in Canada in any given year; 30,000 on any given night, of which 5086 are based in Toronto, Ontario. Covenant House Toronto 2 estimates that there are as many as 1000-2000 homeless youth a night in Toronto. An annual estimated 300 babies are born to mothers who are homeless in the city of Toronto. In the city, there are shelters that provide acute services for the homeless such as food, medical services and around-the-clock mental health care. These shelters are necessary and vital services, however, in their narrow mandates they do not address larger issues of stigma and social integration of shelter-seekers with the sheltered. As emphasized by “Housing First” homelessness advocates, shelter-seekers are no different in their “readiness” or ability than the sheltered; but nonetheless they encounter daily challenges that could be resolved primarily through shelter and work.
