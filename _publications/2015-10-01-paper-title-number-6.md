@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Modelling and Simulation of Acoustic Metamaterials for Architectural Application"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+excerpt: ' The research presented in this paper investigates acoustic metamaterials for architectural acoustics and demonstrates how architects can leverage parametric design, digital fabrication, and computer performance simulation to develop new metamaterial designs tuned for customized acoustic performance.'
+date: 2022-09-18
+venue: 'Springer International Publishing'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'P. Cop, J. Nguyen, and B. Peters, “Modelling and Simulation of Acoustic Metamaterials for Architectural Application,” in Towards Radical Regeneration, Cham: Springer International Publishing, pp. 223–236. doi: 10.1007/978-3-031-13249-0_19.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Acoustic metamaterials are novel engineered materials with geometric features of subwavelength size that create highly exotic acoustic behaviors such as negative refractive indexes, perfect sound absorption and sound waveguiding. While these new materials hold much promise to be useful for the architectural engineering and construction sector, there has been little research done on the application of acoustic metamaterials for architectural application. The research presented in this paper investigates acoustic metamaterials for architectural acoustics and demonstrates how architects can leverage parametric design, digital fabrication, and computer performance simulation to develop new metamaterial designs tuned for customized acoustic performance. This paper proposes a new definition of ‘metamaterials for architectural acoustic application’ and provides a brief overview of the history and theory of acoustic metamaterials alongside a discussion of the relevance of such materials for implementation in architectural acoustic applications. A design and simulation workflow is presented that demonstrates the parametric design and iteration of metamaterial geometry, performance evaluation through computer simulation, and digital fabrication of functional prototypes. A set of well-performing metamaterial geometries are presented that can be used to design architectural acoustic surfaces.
