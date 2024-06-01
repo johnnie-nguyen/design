@@ -1,7 +1,6 @@
 ---
 title: "Resonant Hexagon Diffuser: Designing tunable acoustic surfaces by combining sound scattering and Helmholtz resonators"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper investigates the potential of Helmholtz resonators to be used in combination with sound scattering surfaces to achieve optimal perfor- mance in cross laminated timber (CLT) panels through the use of a hexagonal pattern as the underlying design strategy.'
 date: 2022-11-28
 venue: 'CUMINCAD'
