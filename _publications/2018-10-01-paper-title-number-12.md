@@ -1,7 +1,6 @@
 ---
-title: "A.I. Future"
+title: "A.I. Future: Back 2 the Suburbs"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This work is about predicting how urban density will transition into a "back to the suburbs" mentality due to autonomous driving and normalization of digital communications.'
 date: 2019-01-10
 venue: 'a+u Architecture and Urbanism'
