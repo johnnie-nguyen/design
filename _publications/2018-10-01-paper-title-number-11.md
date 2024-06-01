@@ -1,7 +1,6 @@
 ---
 title: "“A Social Reintegration Project"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about addressing the shelter facilities in the city of Toronto, Ontario in Canada. Social integration and rehabilitation are addressed in the proposal through a facility that houses shelter seekers and provides all necessary facilities including a medical center, room and board resources, and classrooms, while normalizing social interactions between the sheltered and shelter seekers.'
 date: 2017-11-03
 venue: 'Dichotomy'
