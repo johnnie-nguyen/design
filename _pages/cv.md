@@ -39,7 +39,7 @@ Work experience (academic)
 * 2016 - 2017: Research Assistant
   * University of Toronto
   * Duties included: Editoral work
-  * Lab: Deans Office
+  * Lab: Office of the Dean
       
 * 2016 - 2017: Graduate Student Librarian Assistant
   * University of Toronto
@@ -78,6 +78,13 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Conference Presentations
+======
+* Acoustic Research & Development
+  * Simulation using Finite Element Method (Comsol), Raytracing (Odeon), FDTD (Pachyderm), and Boundary Element Modeling (AFMG Reflex)
+  * Absorption using Acoustic Metamaterials and Helmholtz Resonators
+  * Diffusion using custom complex Schroder Diffuser Geometries
   
 Invited Talks
 ======
