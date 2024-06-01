@@ -1,7 +1,6 @@
 ---
 title: "Computational Fluid Dynamics in Building Design Practice"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper provides a state-of-the-art of computational fluid dynamics (CFD) in the building industry.'
 date: 2020-11-25
 venue: 'CUMINCAD'
