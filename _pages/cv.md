@@ -75,9 +75,13 @@ Technical Skills
     
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* John Nguyen, P. Cop, N. Hoban, B. Peters, T. Kesik, "Resonant Hexagon Diffuser: Designing tunable acoustic surfaces by combining sound scattering and Helmholtz resonators," in Proceedings of ACADIA 2022 - Association for Computer Aided Design in Architecture, pp.546-557. ISBN 979-8-9860805-8-1
+* R. Cocks, John Nguyen, and B. Peters, “Wieringa Surface: The Implementation of Aperiodicity into Architectural Acoustics,” in Computer-Aided Architectural Design. INTERCONNECTIONS: Co-computing Beyond Boundaries, Cham: Springer Nature Switzerland, pp. 190–203. doi: 10.1007/978-3-031-37189-9_13.
+* P. Cop, John Nguyen, and B. Peters, “Modelling and Simulation of Acoustic Metamaterials for Architectural Application,” in Towards Radical Regeneration, Cham: Springer International Publishing, pp. 223–236. doi: 10.1007/978-3-031-13249-0_19.
+* P. Cop, John Nguyen, B. Peters, "Modelling and Simulation of Helmholtz Resonators for Broadband Sound Absorption," in Proceedings of SimAUD 2021, doi: simaud.org/papers
+* B. Peters, John Nguyen, R. Omar, "Parametric acoustics: design techniques that integrate modelling and simulation" in Proceedings of Euronoise 21 Annual Congress. doi: sea-acustica.es/fileadmin/Madeira21/ID140
+* John Nguyen and Brady Peters, "Computational Fluid Dynamics in Building Design Practice," in Proceedings of ACADIA 2020 Conference Association for Computer Aided Design in Architecture, pp.574-583, ISBN: 978-0-578-95213-0
+* V. Nguyen, T. Nguyen, John Nguyen, "Numerical Simulation of Turbulent Flow and Pollutant Dispersion in Urban Street Canyons," Atmosphere, vol 10(11), pp. 683-713, 2019, doi: doi.org/10.3390/atmos10110683
 
 Conference Presentations
 ======
