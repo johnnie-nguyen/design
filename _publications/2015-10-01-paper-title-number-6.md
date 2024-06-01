@@ -1,7 +1,6 @@
 ---
 title: "Modelling and Simulation of Acoustic Metamaterials for Architectural Application"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ' The research presented in this paper investigates acoustic metamaterials for architectural acoustics and demonstrates how architects can leverage parametric design, digital fabrication, and computer performance simulation to develop new metamaterial designs tuned for customized acoustic performance.'
 date: 2022-09-18
 venue: 'Springer International Publishing'
