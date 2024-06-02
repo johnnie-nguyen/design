@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Generative Pavilion"
+excerpt: "The Generative Pavilion explores the utilization of a physics engine to discretize complex geometries into a node-based panelization assembly framework." <br/><img src='/images/GDP.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Website under construction
