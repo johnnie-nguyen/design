@@ -1,4 +1,3 @@
-*
 ---
 title: "Generative Pavilion"
 excerpt: <br/><img src='/images/GDP.png'>"
