@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "John Nguyen"
 description              : &description "Research & Developments"
 url                      : "https://johnnie-nguyen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/design" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/johnnie-nguyen/design.git"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
