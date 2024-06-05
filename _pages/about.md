@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src='../images/GDP.png'>
+<img src='/images/GDP.png'>
 <br/>
 Custom Text here
