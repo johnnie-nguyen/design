@@ -8,7 +8,8 @@ redirect_from:
 ---
 <br/>
 | <img src='./images/GDP.png'> | <img src='./images/CLT.png'>  |
-| "Generative Design Pavilion" | "Mass Timber Scatter Surface" |
+| "Generative Design Pavilion" align="center" | "Mass Timber Scatter Surface" |
+
 | <img src='./images/CLT.png'> | <img src='./images/GDP.png'>  |
 | "Generative Design Pavilion" | "Mass Timber Scatter Surface" |
 
