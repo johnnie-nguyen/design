@@ -6,12 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='./images/GDP.png'>
 <br/>
 
-| <img src='./images/GDP.png'> | <img src='./images/GDP.png'> |
+| <img src='./images/GDP.png'> | <img src='./images/CLT.png'>  |
+| "Generative Design Pavilion" | "Mass Timber Scatter Surface" |
 
-| <img src='./images/GDP.png'> | <img src='./images/GDP.png'> |
+| <img src='./images/GDP.png'> | <img src='./images/GDP.png'>  |
+| "Generative Design Pavilion" | "Mass Timber Scatter Surface" |
 
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
