@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 <br/>
+<img src='./images/GDP.png' align="top" /><img src='./images/CLT.png' width="600">
+<br/>
 
 | <img src='./images/GDP.png'> | <img src='./images/CLT.png'>  |
 | "Generative Design Pavilion" | "Mass Timber Scatter Surface" |
