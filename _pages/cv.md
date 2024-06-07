@@ -16,7 +16,7 @@ Education
   
 Work experience (academic)
 ======
-* 2022 - 2024: Research Lead
+* 2022 - 2024: Research Lab Leader
   * University of Toronto
   * Duties includes: Oversee research experiments and supervise team
   * Lab: Daniels Robotics Laboratory & Acoustics Research Group
@@ -115,6 +115,7 @@ Teaching
 * 2017-2020_LAN2025_Graduate course_Intermediate Visual Communication
 * 2017-2020_LAN3025_Graduate course_Advanced Visual Communication
   
-Service and leadership
+Affiliations
 ======
-* Currently signed in to 43 different slack teams
+* LEED Green Associate
+* OAA / CACB
