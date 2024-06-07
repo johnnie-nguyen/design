@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 | <img src='./images/GDP.png'> | <img src='./images/CLT.png'>  |
-| "Generative Design Pavilion" | "Mass Timber Scatter Surface" |
+| <a href="https://johnnie-nguyen.github.io/design/portfolio/portfolio-1/"> Generative Design Pavilion </a> | "Mass Timber Scatter Surface" |
 | <img src='./images/GDP.png'> | <img src='./images/CLT.png'>  |
 | "Generative Design Pavilion" | "Mass Timber Scatter Surface" |
 
