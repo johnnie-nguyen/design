@@ -13,6 +13,8 @@ redirect_from:
 | "Aeolian Soundscape" | "Acoustic Clay Vases" |
 | <img src='./images/HEXB.png'> | <img src='./images/GLOBE2.png'>  |
 | "Resonant Hexagon Diffusers" | "Geosphere Timber Tectonics"  | 
+| <img src='./images/SHELTER.png'> | <img src='./images/CFD.png'> |
+| "A Social Reintegration Project" | "Computational Fluid Dynamics" |
 | <img src='./images/OBS.png'> | <img src='./images/WST.png'>  |
 | "Obscura" | "Cavalcade" |
 | <img src='./images/WAX.png'> | <img src='./images/SAUGA.png'> |
