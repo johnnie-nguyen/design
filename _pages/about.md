@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 | <img src='./images/GDP.png'> | <img src='./images/CLT.png'>  |
-| <a href="https://johnnie-nguyen.github.io/design/portfolio/portfolio-1/"> Generative Design Pavilion </a> | <a href="https://johnnie-nguyen.github.io/design/portfolio/portfolio-2/"> Mass Timber Scatter Surface </a> |
+| <a href="https://johnnie-nguyen.github.io/design/portfolio/portfolio-1/"> Generative Design Pavilion </a> | <a href="https://johnnie-nguyen.github.io/design/portfolio/portfolio-2/"> Programmable Acoustic Diffusion Surface </a> |
 | <img src='./images/RFS2.png'> | <img src='./images/ACV3.png'>  |
 | "Aeolian Soundscape" | "Acoustic Clay Vases" |
 | <img src='./images/HEXB.png'> | <img src='./images/GLOBE2.png'>  |
