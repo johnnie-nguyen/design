@@ -1,6 +1,6 @@
 ---
-title: "Generative Pavilion"
 excerpt: <img src='../images/GDP.png'>
+title: "Generative Pavilion"
 collection: portfolio
 ---
 **Description:**
