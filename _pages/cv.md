@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* 2026 - University of Cambridge
-</br> * Postgraduate in Architecture
+* 2026 - University of Cambridge 
+  * Postgraduate in Architecture
 * 2020 - University of Toronto
-</br> * Graduate in Architecture
+  * Graduate in Architecture
   
 Work experience (academic)
 ======
