@@ -15,8 +15,10 @@ for specific frequencies programmed into the noise depths of the Schroder diffus
 <br/>
 <br/> <img src='/design/images/CLT.png' width="700" height="500">
 <br/>
+<br/> <img src='/design/images/CLT3.png' width="700" height="500">
 <br/>
-<br/>**Client:** Element5
+<br/>
+<br/> **Client:** Element5
 <br/> **Funding:** Canadian Foundation for Innovation (CFI) and National Science and Engineering Research Council (NSERC)
 <br/> **Location:** Element5 Office Meeting Room at 67 Mowat Ave. Toronto
 <br/> **Collaborators:** John Nguyen, Philipp Cop, Nicholas Hoban, Brady Peters
