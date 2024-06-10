@@ -1,6 +1,6 @@
 ---
 title: "Generative Pavilion"
-excerpt: "Research, Design-Build project <br/><img src='../images/GDP.png'>"
+excerpt: <img src='../images/GDP.png'>
 collection: portfolio
 ---
 **Description:**
