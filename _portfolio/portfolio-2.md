@@ -13,6 +13,8 @@ for specific frequencies programmed into the noise depths of the Schroder diffus
 <br/>
 <br/> <img src='/design/images/CLT2.png' width="700" height="500">
 <br/>
+<br/> <img src='/design/images/CLT4.png' width="700" height="500">
+<br/>
 <br/> <img src='/design/images/CLT.png' width="700" height="500">
 <br/>
 <br/> <img src='/design/images/CLT3.png' width="700" height="500">
