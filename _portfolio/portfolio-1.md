@@ -8,9 +8,9 @@ collection: portfolio
 <br/>
 <br/> <img src='/design/images/GDP.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/GDP2.png' width="700" height="500">
+<br/> <img src='/design/images/GDP4.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/GDP3.png' width="700" height="500">
+<br/> <img src='/design/images/GDP2.png' width="700" height="500">
 <br/>
 <br/>
 <br/>
