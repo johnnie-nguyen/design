@@ -12,7 +12,7 @@ redirect_from:
 | <img src='./images/RFS2.png'> | <img src='./images/ACV3.png'>  |
 | "Aeolian Soundscape" | <a href="https://johnnie-nguyen.github.io/design/portfolio/portfolio-3/"> Resonance In Pottery: Acoustic Clay Vases </a> [Project] |
 | <img src='./images/HEXB.png'> | <img src='./images/GLOBE2.png'>  |
-| <a href="https://johnnie-nguyen.github.io/design/publications/2015-10-01-paper-title-number-7/"> Resonant Hexagon Diffuser </a> [Publication] | <a href="https://johnnie-nguyen.github.io/design/portfolio/portfolio-2/"> Geosphere </a> [Project]  |
+| <a href="https://johnnie-nguyen.github.io/design/publications/2022-11-03-Resonant%20Hexagon%20Diffuser/"> Resonant Hexagon Diffuser </a> [Publication] | <a href="https://johnnie-nguyen.github.io/design/portfolio/portfolio-2/"> Geosphere </a> [Project]  |
 | <img src='./images/SHELTER.png'> | <img src='./images/CFD.png'> |
 | "A Social Reintegration Project" | "Computational Fluid Dynamics" |
 | <img src='./images/OBS.png'> | <img src='./images/WST.png'>  |
