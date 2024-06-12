@@ -10,9 +10,13 @@ collection: portfolio
 <br/>
 <br/> <img src='/design/images/ACV.png' width="700" height="500">
 <br/>
+<br/> <img src='/design/images/ACV5.png' width="700" height="500">
+<br/>
+<br/> <img src='/design/images/ACV4.png' width="700" height="500">
+<br/>
 <br/>
 <br/>**Client:** The Canadian Clay and Glass Gallery
 <br/> **Funding:** National Science and Engineering Research Council (NSERC)
 <br/> **Location:**  25 Caroline St N, Waterloo, ON N2L 2Y5
-<br/> **Collaborators:** Nicholas Hoban, Brady Peters
+<br/> **Collaborators:** Nicholas Hoban
 <br/> **Photographs:** 6ix Films
