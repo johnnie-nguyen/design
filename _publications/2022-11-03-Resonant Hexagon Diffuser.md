@@ -13,9 +13,9 @@ citation: 'J. Nguyen, P. Cop, N. Hoban, B. Peters, T. Kesik, "Resonant Hexagon D
 <br/>
 <br/> <img src='/design/images/HEXB.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/HEXV.png' width="700" height="500">
+<br/> <img src='/design/images/HEXV.gif' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/HEXV1.png' width="700" height="500">
+<br/> <img src='/design/images/HEXV1.gif' width="700" height="500">
 <br/>
 <br/> <img src='/design/images/HEX1.png' width="700" height="500">
 <br/>
