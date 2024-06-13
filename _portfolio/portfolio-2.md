@@ -13,9 +13,15 @@ for specific frequencies programmed into the noise depths of the Schroder diffus
 <br/>
 <br/> <img src='/design/images/CLT2.png' width="700" height="500">
 <br/>
+<br/> <img src='/design/images/CLT6.png' width="700" height="500">
+<br/>
+<br/> <img src='/design/images/CLT5.png' width="700" height="500">
+<br/>
 <br/> <img src='/design/images/CLT4.png' width="700" height="500">
 <br/>
 <br/> <img src='/design/images/CLT.png' width="700" height="500">
+<br/>
+<br/> <img src='/design/images/CLTS.gif' width="700" height="500">
 <br/>
 <br/> <img src='/design/images/CLT3.png' width="700" height="500">
 <br/>
@@ -23,5 +29,5 @@ for specific frequencies programmed into the noise depths of the Schroder diffus
 <br/> **Client:** Element5
 <br/> **Funding:** Canadian Foundation for Innovation (CFI) and National Science and Engineering Research Council (NSERC)
 <br/> **Location:** Element5 Office Meeting Room at 67 Mowat Ave. Toronto
-<br/> **Collaborators:** John Nguyen, Philipp Cop, Nicholas Hoban, Brady Peters
+<br/> **Collaborators:** Philipp Cop, Nicholas Hoban, Brady Peters
 <br/> **Photographs:** Yihan Xu
