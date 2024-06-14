@@ -11,8 +11,6 @@ citation: 'R. Cocks, J. Nguyen, and B. Peters, “Wieringa Surface: The Implemen
 <br/>
 <br/><a href="https://johnnie-nguyen.github.io/design/files/CF23.pdf" target="_blank">Click Here for Full Paper.</a>
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/WIER1.png' width="700" height="500">
-<br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/WIER4W.png' width="700" height="275">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/WIER5W.png' width="700" height="400">
@@ -22,6 +20,8 @@ citation: 'R. Cocks, J. Nguyen, and B. Peters, “Wieringa Surface: The Implemen
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/WIER3W.png' width="700" height="225">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/WIER2W.png' width="700" height="700">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/WIER1.png' width="700" height="500">
 <br/>
 <br/>
 <br/> **Funding:** National Science and Engineering Research Council (NSERC)
