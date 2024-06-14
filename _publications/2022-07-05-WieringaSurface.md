@@ -1,7 +1,7 @@
 ---
 title: "Wieringa Surface: The Implementation of Aperiodicity into Architectural Acoustics."
 collection: publications
-permalink: /publication/2022-06-05-WieringaSurface
+permalink: /publication/2022-07-05-WieringaSurface
 excerpt: 'This research proposes combining the concept of aperiodicity with the predictability of a mathematical formula and defined through a parametric model, where the acoustic performance of these aperiodic surfaces will be analyzed through simulations.'
 date: 2022-07-05
 venue: 'Springer Nature - Communications in Computer and Information Science'
