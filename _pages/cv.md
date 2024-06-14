@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2026: University of Cambridge
+* 2025: University of Cambridge
     * Postgraduate in Architecture
 
 * 2020: University of Toronto
