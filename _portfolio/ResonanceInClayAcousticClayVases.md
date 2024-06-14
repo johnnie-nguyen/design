@@ -24,5 +24,6 @@ collection: portfolio
 <br/>**Client:** The Canadian Clay and Glass Gallery
 <br/> **Funding:** National Science and Engineering Research Council (NSERC)
 <br/> **Location:**  25 Caroline St N, Waterloo, ON N2L 2Y5
-<br/> **Collaborators:** Nicholas Hoban
+<br/> **Lead Collaborators:** Nicholas Hoban, Brady Peters
+<br/> **Collaborators:** Nermine Hassanin, Elham Khatei, Ross Cocks, Yuuko Kosame Li-Han, Pablo Espinal Henao, Robin Yu Bin He, Paul Kozak, Rahul Sehijpaul, Liam Cassano
 <br/> **Photographs:** 6ix Films
