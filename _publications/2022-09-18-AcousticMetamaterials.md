@@ -16,7 +16,6 @@ citation: 'P. Cop, J. Nguyen, and B. Peters, “Modelling and Simulation of Acou
 <br/> <img src='/design/images/META2.png' width="700" height="500">
 <br/>
 <br/> <img src='/design/images/META3.png' width="700" height="500">
-<br/>
 <br/> <img src='/design/images/META4.gif' width="700" height="500">
 <br/>
 <br/> <img src='/design/images/META5.png' width="700" height="500">
