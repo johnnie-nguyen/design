@@ -11,11 +11,11 @@ citation: 'P. Cop, J. Nguyen, and B. Peters, “Modelling and Simulation of Acou
 <br/>
 <br/><a href="https://johnnie-nguyen.github.io/design/files/dmsb2022.pdf" target="_blank">Click Here for Full Paper.</a>
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/META4.gif' width="700" height="300">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/META4S.gif' width="700" height="500">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/META5W.png' width="700" height="415">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/META7.gif' width="700" height="300">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/META7S.gif' width="700" height="500">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/META3W.png' width="700" height="425">
 <br/>
