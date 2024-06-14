@@ -13,11 +13,13 @@ citation: 'B. Peters, John Nguyen, R. Omar, "Parametric acoustics: design techni
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO4.png' width="700" height="260">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO6.png' width="700" height="260">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO6.png' width="700" height="500">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO2.png' width="700" height="625">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO3.png' width="700" height="400">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO5.png' width="700" height="260">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO1.gif' width="700" height="500">
 <br/>
