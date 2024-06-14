@@ -8,17 +8,17 @@ collection: portfolio
 <br/>
 <br/>This work introduces robotic clay extrusion as a method of acoustic vase mass customization, where a key challenge is not just designing specific vase geometry, but also the incorporation of fabrication constraints that govern the overall acoustic treatments for the built environment. Presented in this display are prototype variants that illustrate an inverted neck design for a compact Helmholtz resonator concept. This inverted neck approach is a challenging and complex geometric structure for both acoustic performance simulation and robotic clay fabrication as the geometry had to be extruded upside down in contrast to a regular neck design. Additionally, the enclosure proportions were mathematically refined to ensure structural stability during the drying process through the implementation of a rotational stepping method on the inside and a spiral pattern on the outside. There are three different sizes of inverted neck vases samples on this horizontal display, each tuned to absorb specific frequencies with the smallest tuned to absorb at 325Hz, the medium at 167Hz, and largest at 131Hz.
 <br/>
-<br/> <img src='/design/images/ACV.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/ACV6.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV6.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/ACV7.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV7.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/ACV8.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV8.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/ACV5.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV5.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/ACV4.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV4.png' width="700" height="500">
 <br/>
 <br/>
 <br/>**Client:** The Canadian Clay and Glass Gallery
