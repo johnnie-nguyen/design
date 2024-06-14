@@ -13,7 +13,6 @@ collection: portfolio
 <br/> <img src='/design/images/GDP2.png' width="700" height="500">
 <br/>
 <br/>
-<br/>
 <br/>**Client:** Autodesk Toronto
 <br/> **Funding:** Autodesk Technology Centre Toronto
 <br/> **Location:**  MaRS Discovery District at 661 University Ave. Toronto
