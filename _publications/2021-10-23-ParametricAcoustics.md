@@ -11,6 +11,18 @@ citation: 'B. Peters, John Nguyen, R. Omar, "Parametric acoustics: design techni
 <br/>
 <br/><a href="https://johnnie-nguyen.github.io/design/files/EuroNoise21.pdf" target="_blank">Click Here for Full Paper.</a>
 <br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO4.png' width="700" height="260">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO6.png' width="700" height="260">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO2.png' width="700" height="625">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO3.png' width="700" height="400">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO1.gif' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/EURO1B.gif' width="700" height="500">
+<br/>
 <br/>
 <br/> **Funding:** National Science and Engineering Research Council (NSERC)
 <br/> **Collaborators:** Brady peters, Omar Randa
