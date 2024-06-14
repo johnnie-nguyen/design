@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * 2025: University of Cambridge
-    * Postgraduate in Architecture
+    * Postgrad School in Architecture
 
 * 2020: University of Toronto
-    * Graduate in Architecture
+    * Graduate School in Architecture
   
 Work experience (academic)
 ======
