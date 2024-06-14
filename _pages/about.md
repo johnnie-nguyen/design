@@ -20,5 +20,5 @@ redirect_from:
 | <img src='./images/OBS.png'> | <img src='./images/WST.png'>  |
 | "Obscura" | "Cavalcade" |
 | <img src='./images/WAX.png'> | <img src='./images/SAUGA.png'> |
-| "Wax Overhang Deposition" | "Reciprocal Timber Tectonics" |
+| "Wax Cantilever Deposition" | "Reciprocal Timber Tectonics" |
 
