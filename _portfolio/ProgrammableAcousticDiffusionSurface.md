@@ -11,18 +11,18 @@ complex geometric patterns into mass timber walls and ceilings. These patterns n
 the wood's material qualities but also improve room acoustic performance through sound wave scattering properties that are tuned 
 for specific frequencies programmed into the noise depths of the Schroder diffuser.
 <br/>
-<br/> <img src='/design/images/CLT2.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CLT2.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/CLT6.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CLT6.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/CLT5.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CLT5.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/CLT4.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CLT4.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/CLT.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CLT.png' width="700" height="500">
 <br/>
-<br/> <img src='/design/images/CLTC.gif' width="700" height="500">
-<br/> <img src='/design/images/CLT3.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CLTC.gif' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CLT3.png' width="700" height="500">
 <br/>
 <br/>
 <br/> **Client:** Element5
