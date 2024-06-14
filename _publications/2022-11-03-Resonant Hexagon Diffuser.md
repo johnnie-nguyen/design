@@ -14,20 +14,15 @@ citation: 'J. Nguyen, P. Cop, N. Hoban, B. Peters, T. Kesik, "Resonant Hexagon D
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/HEX2.png' width="700" height="500">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/HEXB.png' width="700" height="500">
-<br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/HEXV.gif' width="700" height="500">
-<br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/HEXV3.gif' width="700" height="500">
-<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/HEXV.gif' width="700" height="500">
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/HEXV1.gif' width="700" height="500">
-<br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/HEXV2.gif' width="700" height="500">
-<br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/HEX1.png' width="700" height="500">
 <br/>
 <br/>
 <br/> **Client:** University of Toronto John H. Daniels Faculty of Architecture
 <br/> **Funding:** Canadian Foundation for Innovation (CFI) and Element 5
 <br/> **Location:**  One Spadina Crescent, Toronto, ON M5S 2J5
-<br/> **Collaborators:** Philipp Cop, Nicholas Hoban, Ted Kesik, Brady peters
+<br/> **Collaborators:** Philipp Cop, Nicholas Hoban, Brady peters, Ted Kesik
 <br/> **Photographs:** John Nguyen, Edward Widjaja, Ross Cocks, and Nermine Hassanin
