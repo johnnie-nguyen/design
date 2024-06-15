@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-| <img src='./images/GDP.png'> | <img src='./images/CLT.png'>  |
+| [![Error](./images/GDP.png)](https://johnnie-nguyen.github.io/design/portfolio/GenerativePavilion/) | [![Error](./images/CLT.png)](https://johnnie-nguyen.github.io/design/portfolio/ProgrammableAcousticDiffusionSurface/)  |
 | <a href="https://johnnie-nguyen.github.io/design/portfolio/GenerativePavilion/"> Generative Design Pavilion </a> [Project] | <a href="https://johnnie-nguyen.github.io/design/portfolio/ProgrammableAcousticDiffusionSurface/"> Programmable Acoustic Diffusion Surface </a> [Project] |
 | <img src='./images/RFS2.png'> | <img src='./images/ACV3.png'>  |
 | "Multi-axis Timber Tectonics" | <a href="https://johnnie-nguyen.github.io/design/portfolio/ResonanceInClayAcousticClayVases/"> Resonance In Pottery: Acoustic Clay Vases </a> [Project] |
