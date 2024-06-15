@@ -23,4 +23,4 @@ redirect_from:
 | "Obscura" | "Cavalcade" |
 | <img src='./images/WAX.png'> | <img src='./images/SAUGA.png'> |
 | "Wax Cantilever Deposition" | "Reciprocal Timber Tectonics" |
-
+| [![Error](./images/WAX.png)](https://johnnie-nguyen.github.io/design/portfolio/ResonanceInClayAcousticClayVases/) | <img src='./images/SAUGA.png'> |
