@@ -30,3 +30,4 @@ for specific frequencies programmed into the noise depths of the Schroder diffus
 <br/> **Location:** Element5 Office Meeting Room at 67 Mowat Ave. Toronto
 <br/> **Collaborators:** Philipp Cop, Nicholas Hoban, Brady Peters
 <br/> **Photographs:** Yihan Xu
+
