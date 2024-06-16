@@ -12,10 +12,6 @@ collection: portfolio
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP2.png' width="700" height="500">
 <br/>
-<br/><figure class="img-fade">
-  <img src="https://johnnie-nguyen.github.io/design/images/GDP2.png">
-  <figcaption>Text here</figcaption>
-</figure>
 <br/>
 <br/>**Client:** Autodesk Toronto
 <br/> **Funding:** Autodesk Technology Centre Toronto
