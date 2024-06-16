@@ -18,3 +18,5 @@ collection: portfolio
 <br/> **Location:**  MaRS Discovery District at 661 University Ave. Toronto
 <br/> **Collaborators:** Anton Skorischenko, Stephen Baik, Robert Lee, Jay Pooley
 <br/> **Photographs:** Yasmin Al-Samarrai Photography
+<br/>
+{% include my-gallery.html folder="myfolder" %}
