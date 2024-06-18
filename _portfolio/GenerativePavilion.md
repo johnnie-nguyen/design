@@ -19,7 +19,4 @@ collection: portfolio
 <br/> **Collaborators:** Anton Skorischenko, Stephen Baik, Robert Lee, Jay Pooley
 <br/> **Photographs:** Yasmin Al-Samarrai Photography
 <br/>
-<figure class="img-slide-up">
-  <img src="https://johnnie-nguyen.github.io/design/images/GDP.png">
-  <figcaption>Text here</figcaption>
-</figure>
+
