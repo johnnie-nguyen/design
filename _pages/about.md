@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+{% include my-gallery.html folder="myfolder" %}
 | [![Error](./images/GDP.png)](https://johnnie-nguyen.github.io/design/portfolio/GenerativePavilion/) | [![Error](./images/CLT.png)](https://johnnie-nguyen.github.io/design/portfolio/ProgrammableAcousticDiffusionSurface/)  |
 | [![Error](./images/RFS2.png)]() | [![Error](./images/ACV3.png)](https://johnnie-nguyen.github.io/design/portfolio/ResonanceInClayAcousticClayVases/)  |
 | [![Error](./images/HEXB.png)](https://johnnie-nguyen.github.io/design/publications/2022-11-03-Resonant%20Hexagon%20Diffuser/) | [![Error](./images/GLOBE2.png)](https://johnnie-nguyen.github.io/design/portfolio/portfolio-2/)  |
