@@ -15,8 +15,8 @@ description              : &description "Research & Developments"
 url                      : "https://john-nguyen.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/johnnie-nguyen/design.git"
-imagesurl                : "/design/img/"
-thumbsurl                : "/design/thumbs/"
+imagesurl                : "/img/"
+thumbsurl                : "/thumbs/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
