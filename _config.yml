@@ -16,7 +16,7 @@ url                      : "https://john-nguyen.com" # the base hostname & proto
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/johnnie-nguyen/design.git"
 imagesurl                : "https://github.com/johnnie-nguyen/design/img/"
-thumbsurl                : "https://github.com/johnnie-nguyen/design/thumbs/"
+thumbsurl                : "/thumbs/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
