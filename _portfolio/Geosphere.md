@@ -8,22 +8,22 @@ collection: portfolio
 Through an opening in the sphere, visitors can experience an illuminating light experience in the evening. Red fluorescent UV reactive paint is applied to all reciprocal frame members, while blue paint is applied to their connectors.  The combination of these colors not only provides a captivating visual experience, but also explains how the structure is composed. This project aims to be fun, educational, and demonstrate how technology can connect people to a more sustainable future by doing more with less. 
 <br/>
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO4.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV6.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO5.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV7.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO1.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV8.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO7.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV5.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO2.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV4.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO3.png' width="700" height="500">
 <br/>
 <br/>
 <br/>**Client:** Government of Ontario
 <br/> **Funding:** Ministry of Infrastructure
-<br/> **Location:**  955 Lake Shore Blvd W, Toronto, ON M6K 3B9
+<br/> **Location:**  955 Lake Shore Blvd W, Toronto, ON M6K 3B9 and 1 Spadina Crescent, Toronto, ON M5S 2J5 Canada
 <br/> **Lead Collaborators:** Nicholas Hoban, Rahul Sehijpaul, Paul Kozak
 <br/> **Student Collaborators:** Cameron Manore, Liam Cassano, Sadi Wali, Selina Almadanat, Kosame Li-Han, Ala Mohammadi, Zhenxiao Yang, Sophia de Uria, Mucteba Core, Shannon Dacanay, Nicole Quesnelle, Olivia Carson
 <br/> **Photographs:** Rémi Carreiro Photography
