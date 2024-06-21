@@ -23,7 +23,6 @@ collection: portfolio
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GDPA.gif' width="700" height="500">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GDPB.gif' width="700" height="500">
-<br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP9.png' width="700" height="500">
 <br/>
 <br/>
