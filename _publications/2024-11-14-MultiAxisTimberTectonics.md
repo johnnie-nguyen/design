@@ -2,9 +2,9 @@
 title: "Multi-Axis Timber Tectonics: Robotic Fabrication of a Freestanding, Doubly Curved, Reciprocal Frame Structure"
 collection: publications
 excerpt: ' This paper investigates the potential of utilizing robotically fabricated, doubly curved, reciprocal frame structures as an alternative solution to the problems of global climate concerns and supply chain issues.'
-date: 2022-09-18
+date: 2024-11-14
 venue: ACADIA
-citation: 'J. Nguyen, N. Hoban, R. Sehijpaul, S. Hilchie, B. Peters, [paper undergoing review]
+citation: 'J. Nguyen, N. Hoban, R. Sehijpaul, S. Hilchie, B. Peters, - paper undergoing review
 ---
 **Description:**
 <br/>Over the past few years, sustainable building materials have gained in popularity as environmental
@@ -26,23 +26,27 @@ reciprocal frame structures as an alternative solution to the problems of global
 and supply chain issues.
 <br/>
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/META4S.gif' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/RFS7.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/META5W.png' width="700" height="415">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/RFS0.png' width="700" height="415">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/META7S.gif' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/RFS6.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/META3W.png' width="700" height="425">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/RFS4.png' width="700" height="425">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/META2W.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/RFS1.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/META6W.png' width="700" height="350">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/RFS3.png' width="700" height="350">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/META1.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/RFS5.png' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/RFSS.gif' width="700" height="500">
 <br/>
 <br/>
 <br/> **Client:** Ontario Place Corporation 
-<br/> **Funding:** Government of Ontario
+<br/> **Funding:** Government of Ontario, Mass Timber Institute, University of Toronto
 <br/> **Location:** Trillium Park, 955 Lake Shore Blvd W, Toronto, ON M6K 3B9
-<br/> **Collaborators:** Nicholas Hoban, Rahul Sehijpaul, Shannon Hilchie, Brady Peters
-<br/> **Photographs:** 6ix Films
+<br/> **Lead Collaborators:** Nicholas Hoban, Rahul Sehijpaul, Shannon Hilchie, Brady Peters
+<br/> **Student Collaborators:** Nermine Hassanin, Cameron Manore, Elham Khataei, Zhenxiao Yang, Selina AlMadanat, Renee Powell-Hines, Meera Thomas, Liam Cassano
+<br/> **Support Collaborators:** Zachary Mollica, Paul Kozak
+<br/> **Photographs:** 6ix Films Productions
