@@ -3,9 +3,10 @@ title: "Multi-Axis Timber Tectonics: Robotic Fabrication of a Freestanding, Doub
 collection: publications
 excerpt: ' This paper investigates the potential of utilizing robotically fabricated, doubly curved, reciprocal frame structures as an alternative solution to the problems of global climate concerns and supply chain issues.'
 date: 2024-11-14
-venue: ACADIA
-citation: 'J. Nguyen, N. Hoban, R. Sehijpaul, S. Hilchie, B. Peters, - paper undergoing review
+venue: 'ACADIA'
+citation: 'J. Nguyen, N. Hoban, R. Sehijpaul, S. Hilchie, B. Peters, "Multi-Axis Timber Tectonics: Robotic Fabrication of a Freestanding, Doubly Curved, Reciprocal Frame Structure," at ACADIA 2024 - Association for Computer Aided Design in Architecture
 ---
+
 **Description:**
 <br/>Over the past few years, sustainable building materials have gained in popularity as environmental
 costs associated with concrete and steel construction projects have become increasingly apparent,
