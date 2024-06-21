@@ -12,11 +12,26 @@ collection: portfolio
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP2.png' width="700" height="500">
 <br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP6.png' width="700" height="1100">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP7.png' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP8.png' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP5.png' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDPA.gif' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDPB.gif' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP9.png' width="700" height="500">
+<br/>
 <br/>
 <br/>**Client:** Autodesk Toronto
 <br/> **Funding:** Autodesk Technology Centre Toronto
 <br/> **Location:**  MaRS Discovery District at 661 University Ave. Toronto
-<br/> **Collaborators:** Anton Skorischenko, Stephen Baik, Robert Lee, Jay Pooley
+<br/> **Collaborators:** Anton Skorischenko, Stephen Baik, Robert Lee
+<br/> **Administration Support:** Jay Pooley
 <br/> **Photographs:** Yasmin Al-Samarrai Photography
 <br/>
 {% include my-gallery.html folder="myfolder" %}
