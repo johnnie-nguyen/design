@@ -14,6 +14,8 @@ Through an opening in the sphere, visitors can experience an illuminating light 
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO1.png' width="700" height="500">
 <br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO0.png' width="700" height="500">
+<br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO7.png' width="700" height="500">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO2.png' width="700" height="500">
