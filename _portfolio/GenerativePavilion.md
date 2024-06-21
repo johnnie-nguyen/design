@@ -12,7 +12,15 @@ collection: portfolio
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP2.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP6.png' width="700" height="1100">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP6.png' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP11.png' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP10.png' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP12.png' width="700" height="500">
+<br/>
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDPB.gif' width="700" height="500">
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP7.png' width="700" height="500">
 <br/>
