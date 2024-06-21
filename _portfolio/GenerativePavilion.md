@@ -22,7 +22,6 @@ collection: portfolio
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GDPA.gif' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GDPB.gif' width="700" height="500">
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GDP9.png' width="700" height="500">
 <br/>
 <br/>
@@ -32,6 +31,3 @@ collection: portfolio
 <br/> **Collaborators:** Anton Skorischenko, Stephen Baik, Robert Lee
 <br/> **Administration Support:** Jay Pooley
 <br/> **Photographs:** Yasmin Al-Samarrai Photography
-<br/>
-{% include my-gallery.html folder="myfolder" %}
-
