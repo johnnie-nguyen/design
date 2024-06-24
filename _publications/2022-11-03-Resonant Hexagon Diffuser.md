@@ -27,7 +27,7 @@ citation: 'J. Nguyen, P. Cop, N. Hoban, B. Peters, T. Kesik, "Resonant Hexagon D
 <br/>
 <br/>
 <br/> **Client:** University of Toronto John H. Daniels Faculty of Architecture
-<br/> **Funding:** Canadian Foundation for Innovation (CFI) and Element 5
+<br/> **Funding:** CNational Science and Engineering Research Council (NSERC), Canadian Foundation for Innovation (CFI) and Element 5
 <br/> **Location:**  One Spadina Crescent, Toronto, ON M5S 2J5
 <br/> **Collaborators:** Philipp Cop, Nicholas Hoban, Brady peters, Ted Kesik
 <br/> **Photographs:** John Nguyen, Edward Widjaja, Ross Cocks, and Nermine Hassanin
