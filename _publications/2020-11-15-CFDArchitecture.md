@@ -9,7 +9,7 @@ citation: 'John Nguyen and Brady Peters, "Computational Fluid Dynamics in Buildi
 **Description:**
 <br/>This paper provides a state-of-the-art of computational fluid dynamics (CFD) in the building industry. Two methods were used to find this new knowledge: a series of interviews with leading architecture, engineering, and software professionals; and a series of tests in which CFD software was evaluated using comparable criteria. The paper reports findings in technology, workflows, projects, current unmet needs, and future directions.
 <br/>
-<br/><a href="https://johnnie-nguyen.github.io/design/files/acadia22.pdf" target="_blank">Click Here for Full Paper.</a>
+<br/><a href="https://johnnie-nguyen.github.io/design/files/acadia20.pdf" target="_blank">Click Here for Full Paper.</a>
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/CFD.png' width="700" height="500">
 <br/>
