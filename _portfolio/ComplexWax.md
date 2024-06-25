@@ -6,17 +6,17 @@ collection: portfolio
 **Description:**
 <br/>The exploration of form through leveraging behavioral material properties of Wax. The objective of this project aims to examine the generation of complex forms by leveraging computational techniques and robotic assistance in combination with physical processes.
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/WAX.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV6.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/WAX1.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV7.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/WAX4.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV8.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/WAX5.gif' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV5.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/WAX3.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ACV4.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/WAX2.png' width="700" height="500">
 <br/>
 <br/>
 <br/>**Client:** University of Toronto - John H. Daniels Faculty of Architecture Research
