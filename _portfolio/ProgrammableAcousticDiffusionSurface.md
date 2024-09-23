@@ -29,5 +29,6 @@ for specific frequencies programmed into the noise depths of the Schroder diffus
 <br/> **Funding:** Canadian Foundation for Innovation (CFI) and National Science and Engineering Research Council (NSERC)
 <br/> **Location:** Element5 Office Meeting Room at 67 Mowat Ave. Toronto
 <br/> **Collaborators:** Philipp Cop, Nicholas Hoban, Brady Peters
+<br/> **Student Collaborators:** Nermine Hassanin, Rocks Cocks
 <br/> **Photographs:** Yihan Xu
 
