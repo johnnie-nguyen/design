@@ -19,6 +19,10 @@ Education
   
 Work experience (academic)
 ======
+* 2024 - 2025: Researcher
+  * University of Cambridge 
+  * Conducting experiments and research related to acoustic metamaterials
+
 * 2022 - 2024: Research Lab Leader
   * University of Toronto
   * Duties includes: Oversee research experiments and supervise team
@@ -93,10 +97,11 @@ Publications
 
 Invited Talks
 ======
-* Acoustically Liminal Environments_23.05.2024_Invited Talk at Toronto Metropolitan University, School of Interior Design, Toronto Metropolitan University, Toronto, Ontario, Canada
-* Exploring Contemporary Architecture - Selected Works_26.02.2024_Invited Lecture at University of Waterloo - School of Planning, Waterloo ON, Canada
-* Soundscapes: The Intersection of Building Experience and Acoustics in AEC_15.10.2023_Invited Panelist at Autodesk University, Las Vegas NV, USA
-* The Art of Inquiry: An Overview towards Architectural Research_06.10.2023_Invited Talk at University of Toronto - John H. Daniels Faculty of Architecture, Landscape, and Design, Toronto ON, Canada
+* Resonant Spaces: Harnessing Resonators for Acoustic Control in Built Environments_06.06.2025_Invited Talk at Oxford University, Harris Manchester College, Oxford, Oxfordshire, United Kingdom
+* Acoustically Liminal Environments_23.05.2024_Invited Talk at Toronto Metropolitan University, School of Interior Design, Toronto, Ontario, Canada
+* Exploring Contemporary Architecture - Selected Works_26.02.2024_Invited Lecture at University of Waterloo, School of Planning, Waterloo, Ontario, Canada
+* Soundscapes: The Intersection of Building Experience and Acoustics in AEC_15.10.2023_Invited Panelist at Autodesk University, Las Vegas, Nevada, USA
+* The Art of Inquiry: An Overview towards Architectural Research_06.10.2023_Invited Talk at University of Toronto - John H. Daniels Faculty of Architecture, Landscape, and Design, Toronto, Ontario, Canada
 * The state of Acoustics in Architectural Design_21.10.2022_Invited Talk at University of Toronto - Bahen Centre for Information Technology, Toronto ON, Canada
 * Improved Meeting Room Acoustics Through The Shape Optimization of Reflecting Surfaces_11.10.2020_Invited Talk at Forum Acusticum 2020, Online, virtual format due to Covid-19
 
