@@ -16,19 +16,15 @@ how design decisions related to member geometry, connection strategies, and fabr
 not as an expendable object, but as a systemic material strategy capable of supporting circular construction practices through re-use.
 <br/>
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO4.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY1.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO5.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY2.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO1.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY3.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO0.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY4.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO7.png' width="700" height="500">
-<br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO2.png' width="700" height="500">
-<br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO3.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY5.png' width="700" height="500">
 <br/>
 <br/>
 <br/>**Client:** Government of Ontario
