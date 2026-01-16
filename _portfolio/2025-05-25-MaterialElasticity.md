@@ -15,19 +15,17 @@ veil that transforms and shimmers with the environment. This study contributes t
 of airflow.
 <br/>
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO4.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GOLD2.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO5.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GOLD3.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO1.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GOLD4.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO0.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GOLD5.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO7.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GOLD6.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO2.png' width="700" height="500">
-<br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO3.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/GOLD7.png' width="700" height="500">
 <br/>
 <br/>
 <br/>**Client:** University of Cambridge 
