@@ -8,7 +8,12 @@ citation: 'J. Nguyen, N. Hoban, R. Sehijpaul, S. Lamb, P. Kozak, "Temporary Arch
 ---
 **Description:**
 <br/>
-Temporary architectural structures are often conceived as single-use artifacts, designed for short-term deployment with limited consideration for reuse or long-term material impact. The Geosphere challenges this paradigm by rethinking of reciprocal frame (RF) systems as reusable architectural assemblies rather than disposable pavilions. Building on prior work in doubly curved, robotically fabricated reciprocal frames, this project examines how structural logic, member sizing, and connection strategies can enable repeated cycles of assembly, disassembly, transport, and reconfiguration. Rather than treating reuse as an afterthought, the research positions reusability as a primary design driver and proposes RF structures as adaptable systems capable of extending material lifespans across multiple deployments.
+Temporary architectural structures are typically designed as single-use artifacts, prioritizing speed of construction and formal experimentation over long-term material impact. 
+Temporary Architecture as System reframes reciprocal frame structures as reusable architectural assemblies whose environmental performance emerges across multiple cycles of deployment. 
+Building on prior research in robotically fabricated, doubly curved reciprocal frames, the paper applies Life Cycle Assessment (LCA) to evaluate the embodied environmental impacts of 
+repeated assembly, disassembly, transport, and reconfiguration. By comparing reusable reciprocal frame systems to conventional single-use temporary structures, the study demonstrates 
+how design decisions related to member geometry, connection strategies, and fabrication workflows influence lifecycle performance over time. The research positions temporary architecture 
+not as an expendable object, but as a systemic material strategy capable of supporting circular construction practices through re-use.
 <br/>
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/GEO4.png' width="700" height="500">
