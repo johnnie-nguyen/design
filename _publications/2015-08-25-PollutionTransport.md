@@ -19,15 +19,11 @@ time, and pedestrian exposure. The research positions CFD not as an afterthought
 of guiding early-stage massing, section, and envelope designs. 
 <br/>
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY1.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/TURB1.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY2.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/TURB2.png' width="700" height="600">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY3.png' width="700" height="500">
-<br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY4.png' width="700" height="500">
-<br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/CANOPY5.png' width="700" height="500">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/TURB3.png' width="700" height="850">
 <br/>
 <br/>
 <br/> **Funding:** Seoul National University Research Grant
