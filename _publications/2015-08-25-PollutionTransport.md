@@ -1,5 +1,5 @@
 ---
-title: "Effect of architectural roof design and building height on flow field and pollution transport in street canyon"
+title: "Effect of Architectural Roof Design and Building Height on Flow Field and Pollution Transport in Street Canyons"
 collection: publications
 excerpt: 'This research investigates how architectural form, specifically roof geometry and building height, has an impact on air flow patterns and pollutant dispersion within urban street canyons'
 date: 2015-08-25
