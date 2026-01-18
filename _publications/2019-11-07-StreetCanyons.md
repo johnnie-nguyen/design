@@ -17,7 +17,7 @@ show a good agreement on the flow patterns and pollutant transports.
 <br/>
 <br/> <img src='https://johnnie-nguyen.github.io/design/images/ROOF2.png' width="700" height="500">
 <br/>
-<br/> <img src='https://johnnie-nguyen.github.io/design/images/ROOF12.png' width="700" height="900">
+<br/> <img src='https://johnnie-nguyen.github.io/design/images/ROOF1.png' width="700" height="900">
 <br/>
 <br/>
 <br/> **Funding:** Seoul National University Research Grant
