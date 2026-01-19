@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2025: University of Cambridge
-    * Postgrad School in Architecture | Recipient of the Newman Medal of Excellence in Acoustics and its Application to Architecture
+    * Postgrad School in Architecture - Recipient of the Newman Medal of Excellence in Acoustics and its Application to Architecture
 
 * 2020: University of Toronto
     * Graduate School in Architecture
