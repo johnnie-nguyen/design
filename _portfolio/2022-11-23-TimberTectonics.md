@@ -1,5 +1,5 @@
 ---
-title: "Material Elasticity: From Catenary to Motion in Airflow-Responsive Foil Structures"
+title: "Timber Tectonics"
 excerpt: <img src='../images/SAUGA0.png'>
 collection: portfolio
 ---
