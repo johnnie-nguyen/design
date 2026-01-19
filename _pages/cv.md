@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2025: University of Cambridge
-    * Postgrad School in Architecture
+    * Postgrad School in Architecture | Recipient of the Newman Medal of Excellence in Acoustics and its Application to Architecture
 
 * 2020: University of Toronto
     * Graduate School in Architecture
@@ -82,6 +82,7 @@ Technical Skills
     
 Publications
 ======
+* John Nguyen, P. Cop, N. Hoban, B. Peters, T. Kesik, "Multi-Axis Timber Tectonics: Robotic Fabrication of a Freestanding, Doubly Curved, Reciprocal Frame Structure," in Proceedings of ACADIA 2024 - Association for Computer Aided Design in Architecture, pp.579-590. ISBN 979-8-9891764-8-9
 * John Nguyen, P. Cop, N. Hoban, B. Peters, T. Kesik, "Resonant Hexagon Diffuser: Designing tunable acoustic surfaces by combining sound scattering and Helmholtz resonators," in Proceedings of ACADIA 2022 - Association for Computer Aided Design in Architecture, pp.546-557. ISBN 979-8-9860805-8-1
 * R. Cocks, John Nguyen, and B. Peters, “Wieringa Surface: The Implementation of Aperiodicity into Architectural Acoustics,” in Computer-Aided Architectural Design. INTERCONNECTIONS: Co-computing Beyond Boundaries, Cham: Springer Nature Switzerland, pp. 190–203. doi: 10.1007/978-3-031-37189-9_13.
 * P. Cop, John Nguyen, and B. Peters, “Modelling and Simulation of Acoustic Metamaterials for Architectural Application,” in Towards Radical Regeneration, Cham: Springer International Publishing, pp. 223–236. doi: 10.1007/978-3-031-13249-0_19.
@@ -97,13 +98,18 @@ Publications
 
 Invited Talks
 ======
-* Resonant Spaces: Harnessing Resonators for Acoustic Control in Built Environments_06.06.2025_Invited Talk at Oxford University, Harris Manchester College, Oxford, Oxfordshire, United Kingdom
-* Acoustically Liminal Environments_23.05.2024_Invited Talk at Toronto Metropolitan University, School of Interior Design, Toronto, Ontario, Canada
-* Exploring Contemporary Architecture - Selected Works_26.02.2024_Invited Lecture at University of Waterloo, School of Planning, Waterloo, Ontario, Canada
-* Soundscapes: The Intersection of Building Experience and Acoustics in AEC_15.10.2023_Invited Panelist at Autodesk University, Las Vegas, Nevada, USA
-* The Art of Inquiry: An Overview towards Architectural Research_06.10.2023_Invited Talk at University of Toronto - John H. Daniels Faculty of Architecture, Landscape, and Design, Toronto, Ontario, Canada
-* The state of Acoustics in Architectural Design_21.10.2022_Invited Talk at University of Toronto - Bahen Centre for Information Technology, Toronto ON, Canada
-* Improved Meeting Room Acoustics Through The Shape Optimization of Reflecting Surfaces_11.10.2020_Invited Talk at Forum Acusticum 2020, Online, virtual format due to Covid-19
+* 2025.06.06: University of Oxford
+    * Resonant Spaces: Harnessing Resonators for Acoustic Control in Built Environments_Invited Talk at Oxford University, Harris Manchester College, Oxford, Oxfordshire, United Kingdom
+* 2024.05.23: Toronto Metropolitan University
+    * Acoustically Liminal Environments_Invited Talk at Toronto Metropolitan University, School of Interior Design, Toronto, Ontario, Canada
+* 2024.02.26: University of Waterloo
+    * Exploring Contemporary Architecture - Selected Works_Invited Lecture at University of Waterloo, School of Planning, Waterloo, Ontario, Canada
+* 2023.10.15: Autodesk University
+    * Soundscapes: The Intersection of Building Experience and Acoustics in AEC_Invited Panelist at Autodesk University, Las Vegas, Nevada, USA
+* 2023.06.10: University of Toronto
+    * The Art of Inquiry: An Overview towards Architectural Research_Invited Talk at University of Toronto - John H. Daniels Faculty, Toronto, Ontario, Canada
+* 2022.10.21: University of Toronto
+    * The state of Acoustics in Architectural Design_Invited Talk at University of Toronto - Bahen Centre for Information Technology, Toronto ON, Canada
 
 Organized Workshops
 ======
