@@ -1,6 +1,6 @@
 ---
 title: "Cavalcade - A Migration Story"
-excerpt: <img src='../images/GLOBE2.png'>
+excerpt: <img src='../images/CAL8.png'>
 collection: portfolio
 ---
 **Description:**
