@@ -83,7 +83,7 @@ Technical Skills
     
 Publications
 ======
-* John Nguyen, P. Cop, N. Hoban, B. Peters, T. Kesik, "Multi-Axis Timber Tectonics: Robotic Fabrication of a Freestanding, Doubly Curved, Reciprocal Frame Structure," in Proceedings of ACADIA 2024 - Association for Computer Aided Design in Architecture, pp.579-590. ISBN 979-8-9891764-8-9
+* John Nguyen, N. Hoban, B. Peters, S. Hilchie, T. Kesik, "Multi-Axis Timber Tectonics: Robotic Fabrication of a Freestanding, Doubly Curved, Reciprocal Frame Structure," in Proceedings of ACADIA 2024 - Association for Computer Aided Design in Architecture, pp.579-590. ISBN 979-8-9891764-8-9
 * John Nguyen, P. Cop, N. Hoban, B. Peters, T. Kesik, "Resonant Hexagon Diffuser: Designing tunable acoustic surfaces by combining sound scattering and Helmholtz resonators," in Proceedings of ACADIA 2022 - Association for Computer Aided Design in Architecture, pp.546-557. ISBN 979-8-9860805-8-1
 * R. Cocks, John Nguyen, and B. Peters, “Wieringa Surface: The Implementation of Aperiodicity into Architectural Acoustics,” in Computer-Aided Architectural Design. INTERCONNECTIONS: Co-computing Beyond Boundaries, Cham: Springer Nature Switzerland, pp. 190–203. doi: 10.1007/978-3-031-37189-9_13.
 * P. Cop, John Nguyen, and B. Peters, “Modelling and Simulation of Acoustic Metamaterials for Architectural Application,” in Towards Radical Regeneration, Cham: Springer International Publishing, pp. 223–236. doi: 10.1007/978-3-031-13249-0_19.
