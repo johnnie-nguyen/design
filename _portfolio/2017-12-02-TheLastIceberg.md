@@ -1,6 +1,6 @@
 ---
 title: "The Last Iceberg"
-excerpt: <img src='../images/CAL1.png'>
+excerpt: <img src='../images/ICE1.png'>
 collection: portfolio
 ---
 **Description:**
