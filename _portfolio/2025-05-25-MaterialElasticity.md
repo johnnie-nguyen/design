@@ -1,6 +1,6 @@
 ---
 title: "Material Elasticity: From Catenary to Motion in Airflow-Responsive Foil Structures"
-excerpt: <img src='../images/GLOBE2.png'>
+excerpt: <img src='../images/GOLD2.png'>
 collection: portfolio
 ---
 **Description:**
