@@ -20,41 +20,41 @@ Education
   
 Work experience (academic)
 ======
-* 2024 - 2025: Researcher
+* Researcher
   * University of Cambridge 
   * Conducting experiments and research related to acoustic metamaterials
 
-* 2022 - 2024: Research Lab Leader
+* Research Lab Leader
   * University of Toronto
   * Duties includes: Oversee research experiments and supervise team
   * Lab: Daniels Robotics Laboratory & Acoustics Research Group
 
-* 2021 - 2022: Research Associate
+* Research Associate
   * University of Toronto
   * Duties includes: Oversee research experiments and supervise team
   * Lab: Acoustics Research Group
 
-* 2018 - 2020: Research Assistant
+* Research Assistant
   * University of Toronto
   * Duties included: Conduct experiments and editoral work
   * Lab: Acoustics Research Group
   
-* 2017 - 2018: Research Assistant
+* Research Assistant
   * University of Toronto
   * Duties included: Parametric Scripting and 3D Modeling
   * Lab: Centre for Landscape Research - Platform for Resilient Urbanism
     
-* 2016 - 2017: Research Assistant
+* Research Assistant
   * University of Toronto
   * Duties included: Editoral work
   * Lab: Office of the Dean
       
-* 2016 - 2017: Graduate Student Librarian Assistant
+* Graduate Student Librarian Assistant
   * University of Toronto
   * Duties included: Data management and Document Processing
   * Lab: Chief Librarian's Office - Scholarly Communications and Copyright Office
       
-* 2014 - 2016: Junior Research Assistant
+* Junior Research Assistant
   * Seoul National University
   * Duties included: Develop mesh models and run CFD simulations
   * Lab: Environmental Fluid Dynamics Laboratory
