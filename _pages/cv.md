@@ -121,14 +121,14 @@ Organized Workshops
 
 Teaching
 ======
-* 2018-2023_ARC180_Undergraduate course_Computation and Design
-* 2019-2022_ARC280_Undergraduate course_Modeling and Fabrication in Design
-* 2021-2022_ARC380_Undergraduate course_Studio: Tectonic Timber Assemblies
-* 2019-2020_ARC385_Undergraduate course_Physical Computing
-* 2017-2018_ARC365_Undergraduate course_Design and Health in Architecture
-* 2018-2020_ARC2023_Graduate course_Intermediate Computing in Architecture
-* 2017-2020_LAN2025_Graduate course_Intermediate Visual Communication
-* 2017-2020_LAN3025_Graduate course_Advanced Visual Communication
+* ARC180_Undergraduate course_Computation and Design
+* ARC280_Undergraduate course_Modeling and Fabrication in Design
+* ARC380_Undergraduate course_Studio: Tectonic Timber Assemblies
+* ARC385_Undergraduate course_Physical Computing
+* ARC365_Undergraduate course_Design and Health in Architecture
+* ARC2023_Graduate course_Intermediate Computing in Architecture
+* LAN2025_Graduate course_Intermediate Visual Communication
+* LAN3025_Graduate course_Advanced Visual Communication
   
 Affiliations
 ======
