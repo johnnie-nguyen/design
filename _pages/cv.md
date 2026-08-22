@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ======
-* University of Cambridge
-    * Postgrad School in Architecture
+* Yale
+    * Doctoral Studies in Architecture
+
+* Cambridge
+    * Postgraduate Studies in Architecture
     * Recipient of the Newman Medal of Excellence in Acoustics and its Application to Architecture
 
-* University of Toronto
-    * Graduate School in Architecture
+* Toronto
+    * Graduate Studies in Architecture
   
 Work experience (academic)
 ======
